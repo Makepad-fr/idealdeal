@@ -1,10 +1,13 @@
 plugins {
-    id 'java-library'
+    //id 'java'
+    id 'application'
 }
 
-group 'io.makepad.idealdeal'
+group 'io.makepad'
 version '1.0-SNAPSHOT'
-
+application{
+    mainClass = "io.makepad.idealdeal.berlinstartupjobs.ReadTest"
+}
 repositories {
     mavenCentral()
 }
