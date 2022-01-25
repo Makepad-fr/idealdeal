@@ -5,4 +5,5 @@ include 'angular'
 include 'adafruit'
 include 'berlinstartupjobs'
 include 'coreint'
+include 'cryptocurrencyjobs'
 
