@@ -1,0 +1,4 @@
+rootProject.name = 'idealdeal'
+include 'stackoverflow'
+include 'wwr'
+include 'angular'
