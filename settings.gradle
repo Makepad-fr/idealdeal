@@ -4,4 +4,5 @@ include 'wwr'
 include 'angular'
 include 'adafruit'
 include 'berlinstartupjobs'
+include 'coreint'
 
